@@ -1,0 +1,33 @@
+body{
+    background-color: $primary-color;
+}
+
+.left{
+    background-color: $primary-color-a;
+    text-decoration: none;
+    padding: 10%;
+    margin-right: 90%;
+    margin-left: 0%;
+}
+
+.menu{
+    font-size: 15px;
+    padding: 5px;
+    width: 15%;
+    right: 9%;
+}
+
+.films{
+    h3{
+        background-color: $primary-color-text-c;
+        justify-content: space-around;
+        align-items: center;
+        display: flex;
+        margin: 5%;
+        padding: 5%;
+        top:-left 50%;
+    }
+    .section-text{
+        background-color: $primary-color-text-d;
+    }
+}
